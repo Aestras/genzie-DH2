@@ -10,6 +10,12 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 		type: "Dark",
 		gen: 1,
 	},
+    gigatonhammer: {
+		inherit: true,
+		category: "Physical",
+		type: "Rock",
+		gen: 1,
+	},
 	bulletpunch: {
 		inherit: true,
 		category: "Physical",

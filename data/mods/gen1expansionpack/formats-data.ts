@@ -192,6 +192,10 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 		tier: "UU",
 		gen: 1,
 	},
+	tinkaton: {
+		tier: "OU",
+		gen: 1,
+	},
 	scizor: {
 		tier: "UU",
 		gen: 1,

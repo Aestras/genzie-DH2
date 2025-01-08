@@ -2045,6 +2045,20 @@ export const Learnsets: {[k: string]: ModdedLearnsetData} = {
 			thunderpunch: ["2M"],
 		},
 	},
+    tinkaton: {
+		learnset: {
+            slam: ["1M"],
+			reflect: ["1M"],
+			lightscreen: ["1M"],
+			thunderwave: ["1M"],
+			metronome: ["1M"],
+			rest: ["1M"],
+			rockslide: ["1M"],
+			swordsdance: ["1M"],
+			substitute: ["1M"],
+			gigatonhammer: ["1M"],
+		},
+	},
 	igglybuff: {
 		learnset: {
 			pound: ["1L1"],
